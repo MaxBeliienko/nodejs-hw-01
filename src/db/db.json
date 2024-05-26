@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Cory Marvin",
+    "phone": "550-946-9555 x0766",
+    "email": "Bryana59@hotmail.com",
+    "job": "International Program Liaison"
+  },
+  {
+    "name": "Joanne Tremblay",
+    "phone": "720.349.1236 x9725",
+    "email": "Gertrude.Mertz8@gmail.com",
+    "job": "Product Configuration Agent"
+  },
+  {
+    "name": "Rosemarie Zulauf",
+    "phone": "(346) 397-5829",
+    "email": "Sidney_Larson@hotmail.com",
+    "job": "Forward Metrics Agent"
+  }
+]
